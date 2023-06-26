@@ -11,6 +11,8 @@
 
 ## Tourism Website
 - Developed tourism website where users can browse through the content, videos and images of popular destinations
+## Run Locally
+- Go live server
 # Tourism website Screenshots
 
   <img width="926" alt="image" src="https://github.com/Prathyusha-93910/tourism/assets/134360404/06a1abc1-fb2b-474c-b909-435be1be1af0">
