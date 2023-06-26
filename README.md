@@ -1,8 +1,8 @@
 # tourism
 ## TechStacks
--HTML
--CSS
--BOOTSTRAP
+- HTML
+- CSS
+- BOOTSTRAP
 ## Functionalities
 -Get started button with containing brief tourism details
 -each tourism conatines detailed inforamtion abot the place
